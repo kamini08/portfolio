@@ -43,6 +43,20 @@ export default function Projects() {
     "link": "https://kamini08.github.io/Etch-a-sketch",
     "backgroundImage": "url('EtchASketch.png')",
   },
+  {
+    "id": 6,
+    "title": "Simon Game",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "link": "https://kamini08.github.io/Simon-game",
+    "backgroundImage": "url('simon-game.png')",
+  },
+  {
+    "id": 7,
+    "title": "Personal Blog",
+    "tags": ["NextJS", "Tailwind", "TypeScript"],
+    "link": "https://github.com/kamini08/personal-blog",
+    "backgroundImage": "url('personalBlog.png')",
+  },
 ];
 
   return (

@@ -13,10 +13,8 @@ export default function Contact() {
     const formData = new FormData(event.target);
     formData.append("access_key", process.env.REACT_APP_ACCESS_KEY);
     console.log(process.env.REACT_APP_ACCESS_KEY);
-
     const object = Object.fromEntries(formData);
     const json = JSON.stringify(object);
-
     const res = await fetch("https://api.web3forms.com/submit", {
       method: "POST",
       headers: {
@@ -56,7 +54,6 @@ export default function Contact() {
       </div>) : (
         <div className="contact-container">
           <span className="span"></span>
-         
           <img src="Email.gif" alt="Message Sent!"></img>
           <button onClick={() => {
             setSubmit(false);
