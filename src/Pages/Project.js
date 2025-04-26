@@ -9,25 +9,25 @@ import "../styles/project.css";
 export default function Projects() {
   const projects = [{
     "id": 1,
-    "title": "Spotify Clone",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://kamini08.github.io/Spotify-clone",
-    "backgroundImage": "url('Spotify.png')",
+    "title": "Swasthika",
+    "tags": ["FastAPI","Gemini API", "ChromaDB","Hugging Face","Langchain", "NextJS","TypeScript" ],
+    "link": "https://rehab-deploy-two.vercel.app",
+    "backgroundImage": "url('swasthika.png')",
   },
   {
     "id": 2,
-    "title": "TextUtils",
-    "tags": ["HTML", "CSS", "JavaScript", "React Js"],
-    "link": "https://kamini08.github.io/TextUtil",
-    "backgroundImage": "url('TextUtil.png')",
+    "title": "Khetideals",
+    "tags": ["NextJS", "TypeScript", "Tailwind CSS", "MongoDB"],
+    "link": "https://sih2024new.vercel.app/",
+    "backgroundImage": "url('https://sih2024new.vercel.app/images/slide2.jpg')",
   },
 
   {
       "id": 3,
-    "title": "Rock Paper Scissors",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://kamini08.github.io/rock-papaer-scissors",
-    "backgroundImage": "url('RockPaperScissor.png')",
+    "title": "SurakshaSanchay",
+    "tags": ["NextJS", "TypeScript", "Tailwind CSS", "Python" "Prisma"],
+    "link": "https://sanchay-rho.vercel.app/",
+    "backgroundImage": "url('sanchay.png')",
   },
   {
     "id": 4,
