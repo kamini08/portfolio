@@ -67,7 +67,7 @@ export default function Contact() {
         <ul className="_links-list">
           <li className="_social-link">
             <a
-              href="https://linkedin.com/kaminibanait"
+              href="https://www.linkedin.com/in/kamini-banait"
               target="_blank"
               rel="noreferrer"
             >
