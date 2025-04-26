@@ -7,7 +7,7 @@ export default function Footer() {
   <div id="mobile-menu">
     <div id="mobile-footer-container">
 
-      <div className="mobile-link">© 2024 {" "}
+      <div className="mobile-link">© 2025 {" "}
         <a href="https://github.com/kamini08" className="text-center">kamini08. {" "}</a>
         All rights reserved.
       </div>
