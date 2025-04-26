@@ -25,7 +25,7 @@ export default function Projects() {
   {
       "id": 3,
     "title": "SurakshaSanchay",
-    "tags": ["NextJS", "TypeScript", "Tailwind CSS", "Python" "Prisma"],
+    "tags": ["NextJS", "TypeScript", "Tailwind CSS", "Python", "Prisma"],
     "link": "https://sanchay-rho.vercel.app/",
     "backgroundImage": "url('sanchay.png')",
   },
